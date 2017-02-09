@@ -2,11 +2,4 @@
 
 Play area for me to learn Haskell - learning from Rob
 
-maybe run:
-
-```
-stack install
-stack build
-```
-
-but what do I know?
+run `stack install`. It creates an executable, seedy-exe, in ~/.local./bin
