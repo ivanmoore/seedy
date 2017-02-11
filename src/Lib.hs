@@ -32,4 +32,4 @@ formdataField fieldName = do
   return (unpack msg)
 
 parseCommits :: String -> [Commit]
-parseCommits commitsUrl = []
+parseCommits commitsUrl = [Commit { fake = x } | x <- [1..59]]
