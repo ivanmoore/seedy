@@ -6,3 +6,5 @@ services:
     volumes:
       - .:/code
       - .stack-cache:/root/.stack
+    ports:
+      - "8000:8000"
