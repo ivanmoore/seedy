@@ -1,7 +1,8 @@
 module Main where
 
-import Happstack.Lite
-import Lib
+import Commit
+import GitListener
+import RetrieveJSON
 
 main :: IO ()
-main = putStr "serve Nothing gitListener"
+main = putStrLn "serve Nothing gitListener"
