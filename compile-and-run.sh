@@ -2,5 +2,5 @@
 
 set -e
 
-stack install
+stack install --allow-different-user
 seedy-exe
