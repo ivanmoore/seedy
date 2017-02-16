@@ -1,7 +1,12 @@
-import Lib
+import RetrieveJSON
 
 main :: IO ()
-main = putStrLn (" *********** Tests " ++ (if canParseCommits then "Passed" else "Failed") ++ " ***********")
+main = putStrLn (" *********** Tests " ++ testResult ++ " ***********")
+  where
+    testResult = if canParseCommits then "Passed" else "Failed"
+
+eatcheapUrl :: String
+eatcheapUrl = "https://api.github.com/repos/robknows/Eatcheap/commits"
 
 canParseCommits :: Bool
-canParseCommits = 59 == (length . parseCommits) "https://api.github.com/repos/ivanmoore/Eatcheap/commits"
+canParseCommits = False
