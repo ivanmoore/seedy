@@ -1,0 +1,16 @@
+
+let x = urlJSON "https://api.github.com/repos/ivanmoore/Eatcheap/commits"
+
+let y = liftM Data.ByteString.Lazy.Char8.unpack x
+
+let z = liftM Data.Text.pack y
+
+liftM (Data.Text.count (Data.Text.pack "parents")) z
+
+let headers = r ^. responseHeaders
+
+:set -XOverloadedStrings
+
+let h = lookup "Link" headers
+
+let l = fromJust h
