@@ -1,6 +1,6 @@
 {-# LANGUAGE DeriveGeneric #-}
 {-# LANGUAGE OverloadedStrings #-}
-module GitListener ( parseCommits, gitListener ) where
+module GitListener ( parseCommits, gitListener, run ) where
 
 import Happstack.Lite
 import Data.Text (Text)
@@ -21,3 +21,6 @@ formdataField fieldName = do
 
 parseCommits :: String -> [Commit]
 parseCommits commitsUrl = [Commit { fake = x } | x <- [1..59]]
+
+run :: IO ()
+run = serve Nothing gitListener
