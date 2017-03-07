@@ -34,3 +34,6 @@ countRepoCommits :: String -> IO Int
 countRepoCommits url = liftM2 (+) (countCommitsOnPage url) (countCommitsOnPage page2url)
     where
         page2url = url ++ "?page=2"
+
+getFirstCommitSHA :: String -> IO String
+getFirstCommitSHA url = return "5e177263157957259217347b7191e6b4895262a1"
