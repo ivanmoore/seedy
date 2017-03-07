@@ -1,0 +1,2107 @@
+[
+  {
+    "sha": "5e177263157957259217347b7191e6b4895262a1",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2017-01-07T15:52:30Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2017-01-07T15:52:30Z"
+      },
+      "message": "Changing foreign usage to using load",
+      "tree": {
+        "sha": "32857f6796e317724041c1d41e87d73bfd5936a5",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/32857f6796e317724041c1d41e87d73bfd5936a5"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/5e177263157957259217347b7191e6b4895262a1",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5e177263157957259217347b7191e6b4895262a1",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/5e177263157957259217347b7191e6b4895262a1",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5e177263157957259217347b7191e6b4895262a1/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "08627c69b70cf076a2af02cff86530914508b981",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/08627c69b70cf076a2af02cff86530914508b981",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/08627c69b70cf076a2af02cff86530914508b981"
+      }
+    ]
+  },
+  {
+    "sha": "08627c69b70cf076a2af02cff86530914508b981",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2017-01-07T15:52:16Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2017-01-07T15:52:16Z"
+      },
+      "message": "Adding chicken drumsticks",
+      "tree": {
+        "sha": "63b6508b9883c1d8e6d78ecc21932a1f4a5d8463",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/63b6508b9883c1d8e6d78ecc21932a1f4a5d8463"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/08627c69b70cf076a2af02cff86530914508b981",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/08627c69b70cf076a2af02cff86530914508b981",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/08627c69b70cf076a2af02cff86530914508b981",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/08627c69b70cf076a2af02cff86530914508b981/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "52683664af310dc616180457715975e811c1a7c8",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/52683664af310dc616180457715975e811c1a7c8",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/52683664af310dc616180457715975e811c1a7c8"
+      }
+    ]
+  },
+  {
+    "sha": "52683664af310dc616180457715975e811c1a7c8",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-23T14:01:03Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-23T14:01:03Z"
+      },
+      "message": "Removing food type because I have no use for it. Fixing tests accordingly",
+      "tree": {
+        "sha": "ef5632724a252b63d86023e31ebad9aa097b1110",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/ef5632724a252b63d86023e31ebad9aa097b1110"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/52683664af310dc616180457715975e811c1a7c8",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/52683664af310dc616180457715975e811c1a7c8",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/52683664af310dc616180457715975e811c1a7c8",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/52683664af310dc616180457715975e811c1a7c8/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "96240a82121aaf6f3f098809bc56acb67c7f1698",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/96240a82121aaf6f3f098809bc56acb67c7f1698",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/96240a82121aaf6f3f098809bc56acb67c7f1698"
+      }
+    ]
+  },
+  {
+    "sha": "96240a82121aaf6f3f098809bc56acb67c7f1698",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-15T11:37:23Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-15T11:37:23Z"
+      },
+      "message": "Renaming accessor methods ro reflect the fact that more stats are now available. 'simple methods' now considered accessor methods",
+      "tree": {
+        "sha": "f178373f1db5cc4de418e99d2fa52410d86e7005",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/f178373f1db5cc4de418e99d2fa52410d86e7005"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/96240a82121aaf6f3f098809bc56acb67c7f1698",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/96240a82121aaf6f3f098809bc56acb67c7f1698",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/96240a82121aaf6f3f098809bc56acb67c7f1698",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/96240a82121aaf6f3f098809bc56acb67c7f1698/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "06551caff6f0da44e50b87ca73c627dfe5e2eb21",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/06551caff6f0da44e50b87ca73c627dfe5e2eb21",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/06551caff6f0da44e50b87ca73c627dfe5e2eb21"
+      }
+    ]
+  },
+  {
+    "sha": "06551caff6f0da44e50b87ca73c627dfe5e2eb21",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-15T01:01:42Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-15T01:01:42Z"
+      },
+      "message": "Adding chicken fillet stats. It's inefficient and bad",
+      "tree": {
+        "sha": "4a8c2cbd0f474b5f868c3868bc328dac70726e04",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/4a8c2cbd0f474b5f868c3868bc328dac70726e04"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/06551caff6f0da44e50b87ca73c627dfe5e2eb21",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/06551caff6f0da44e50b87ca73c627dfe5e2eb21",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/06551caff6f0da44e50b87ca73c627dfe5e2eb21",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/06551caff6f0da44e50b87ca73c627dfe5e2eb21/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "939ef6d825ba73d477f700b8d0485e99b6bf1fae",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/939ef6d825ba73d477f700b8d0485e99b6bf1fae",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/939ef6d825ba73d477f700b8d0485e99b6bf1fae"
+      }
+    ]
+  },
+  {
+    "sha": "939ef6d825ba73d477f700b8d0485e99b6bf1fae",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T17:34:33Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T17:34:33Z"
+      },
+      "message": "Moving constructor parameter headers in line with declarations for clarity",
+      "tree": {
+        "sha": "1d1c3e7168ffe8f2fd71682d07aecb0b4031be40",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/1d1c3e7168ffe8f2fd71682d07aecb0b4031be40"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/939ef6d825ba73d477f700b8d0485e99b6bf1fae",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/939ef6d825ba73d477f700b8d0485e99b6bf1fae",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/939ef6d825ba73d477f700b8d0485e99b6bf1fae",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/939ef6d825ba73d477f700b8d0485e99b6bf1fae/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e88bea4d961d3c3df0914d12f36487cb87795241",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/e88bea4d961d3c3df0914d12f36487cb87795241",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/e88bea4d961d3c3df0914d12f36487cb87795241"
+      }
+    ]
+  },
+  {
+    "sha": "e88bea4d961d3c3df0914d12f36487cb87795241",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T17:33:55Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T17:33:55Z"
+      },
+      "message": "correcting test to use right name of function",
+      "tree": {
+        "sha": "9b2b905613f2f9a370c72b5db2e730c89a219974",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/9b2b905613f2f9a370c72b5db2e730c89a219974"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/e88bea4d961d3c3df0914d12f36487cb87795241",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/e88bea4d961d3c3df0914d12f36487cb87795241",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/e88bea4d961d3c3df0914d12f36487cb87795241",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/e88bea4d961d3c3df0914d12f36487cb87795241/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "931e2aca32ae82d907f06bc121bcebfae91feb28",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/931e2aca32ae82d907f06bc121bcebfae91feb28",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/931e2aca32ae82d907f06bc121bcebfae91feb28"
+      }
+    ]
+  },
+  {
+    "sha": "931e2aca32ae82d907f06bc121bcebfae91feb28",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T13:56:54Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-11-13T13:56:54Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "5b0f1fef87d350ff1a4f8eabade9766e7f437fd2",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/5b0f1fef87d350ff1a4f8eabade9766e7f437fd2"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/931e2aca32ae82d907f06bc121bcebfae91feb28",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/931e2aca32ae82d907f06bc121bcebfae91feb28",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/931e2aca32ae82d907f06bc121bcebfae91feb28",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/931e2aca32ae82d907f06bc121bcebfae91feb28/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "253bf21f5a8100df8217bd1a386e3667a26fb65d",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/253bf21f5a8100df8217bd1a386e3667a26fb65d",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/253bf21f5a8100df8217bd1a386e3667a26fb65d"
+      }
+    ]
+  },
+  {
+    "sha": "253bf21f5a8100df8217bd1a386e3667a26fb65d",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T13:52:53Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T13:52:53Z"
+      },
+      "message": "Forgot to add recently made test to suite! Fixed that",
+      "tree": {
+        "sha": "154aa6dd173e41b49bfe9354d6b67b256f40878d",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/154aa6dd173e41b49bfe9354d6b67b256f40878d"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/253bf21f5a8100df8217bd1a386e3667a26fb65d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/253bf21f5a8100df8217bd1a386e3667a26fb65d",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/253bf21f5a8100df8217bd1a386e3667a26fb65d",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/253bf21f5a8100df8217bd1a386e3667a26fb65d/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0b0dc00344aee17318e2985dcd40605f11365e53",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/0b0dc00344aee17318e2985dcd40605f11365e53",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/0b0dc00344aee17318e2985dcd40605f11365e53"
+      }
+    ]
+  },
+  {
+    "sha": "0b0dc00344aee17318e2985dcd40605f11365e53",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T13:50:15Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T13:50:15Z"
+      },
+      "message": "making extendfood the constructor for foods and taking it out of maketable. renaming it to extendfoodstats",
+      "tree": {
+        "sha": "46368ce0932f3228ea06939f0f220f94807e46b9",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/46368ce0932f3228ea06939f0f220f94807e46b9"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/0b0dc00344aee17318e2985dcd40605f11365e53",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/0b0dc00344aee17318e2985dcd40605f11365e53",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/0b0dc00344aee17318e2985dcd40605f11365e53",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/0b0dc00344aee17318e2985dcd40605f11365e53/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "fc4867ba198bc47e69824c3de674374272c9ca12",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/fc4867ba198bc47e69824c3de674374272c9ca12",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/fc4867ba198bc47e69824c3de674374272c9ca12"
+      }
+    ]
+  },
+  {
+    "sha": "fc4867ba198bc47e69824c3de674374272c9ca12",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T13:49:05Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T13:49:05Z"
+      },
+      "message": "Adding test for extendfood",
+      "tree": {
+        "sha": "074c9db7899a44a0848d99e0645cb065bb44762f",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/074c9db7899a44a0848d99e0645cb065bb44762f"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/fc4867ba198bc47e69824c3de674374272c9ca12",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/fc4867ba198bc47e69824c3de674374272c9ca12",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/fc4867ba198bc47e69824c3de674374272c9ca12",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/fc4867ba198bc47e69824c3de674374272c9ca12/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8b591b29f781e35bf27b84ae42bff4cf4f9e2ef7",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/8b591b29f781e35bf27b84ae42bff4cf4f9e2ef7",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/8b591b29f781e35bf27b84ae42bff4cf4f9e2ef7"
+      }
+    ]
+  },
+  {
+    "sha": "8b591b29f781e35bf27b84ae42bff4cf4f9e2ef7",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T01:12:45Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-13T01:12:45Z"
+      },
+      "message": "Adding chickenwings stats. They are very efficient!",
+      "tree": {
+        "sha": "3f4cb7759074d8fcd74c92f2f0057b9ce1b38205",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/3f4cb7759074d8fcd74c92f2f0057b9ce1b38205"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/8b591b29f781e35bf27b84ae42bff4cf4f9e2ef7",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/8b591b29f781e35bf27b84ae42bff4cf4f9e2ef7",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/8b591b29f781e35bf27b84ae42bff4cf4f9e2ef7",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/8b591b29f781e35bf27b84ae42bff4cf4f9e2ef7/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "38271b997c0f0456cb1e301910d2c7db447a6756",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/38271b997c0f0456cb1e301910d2c7db447a6756",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/38271b997c0f0456cb1e301910d2c7db447a6756"
+      }
+    ]
+  },
+  {
+    "sha": "38271b997c0f0456cb1e301910d2c7db447a6756",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-12T23:05:49Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-12T23:05:49Z"
+      },
+      "message": "Adding margerine stats. It's negligibly different from butter.",
+      "tree": {
+        "sha": "d41311bb84f63b3ea8f7ce21983b89abceb69e63",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/d41311bb84f63b3ea8f7ce21983b89abceb69e63"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/38271b997c0f0456cb1e301910d2c7db447a6756",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/38271b997c0f0456cb1e301910d2c7db447a6756",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/38271b997c0f0456cb1e301910d2c7db447a6756",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/38271b997c0f0456cb1e301910d2c7db447a6756/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3e2b5cfd8769eecc81762655f0f6683b20c5fbc1",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/3e2b5cfd8769eecc81762655f0f6683b20c5fbc1",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/3e2b5cfd8769eecc81762655f0f6683b20c5fbc1"
+      }
+    ]
+  },
+  {
+    "sha": "3e2b5cfd8769eecc81762655f0f6683b20c5fbc1",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T10:09:02Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T10:09:02Z"
+      },
+      "message": "Table now shows stats including calculated ones and it's easy to add more too now.",
+      "tree": {
+        "sha": "99d73ae92129f7a36e269331b295452d2c81ca29",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/99d73ae92129f7a36e269331b295452d2c81ca29"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/3e2b5cfd8769eecc81762655f0f6683b20c5fbc1",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/3e2b5cfd8769eecc81762655f0f6683b20c5fbc1",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/3e2b5cfd8769eecc81762655f0f6683b20c5fbc1",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/3e2b5cfd8769eecc81762655f0f6683b20c5fbc1/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "20ab724c803527854603ef1afd48874492c28186",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/20ab724c803527854603ef1afd48874492c28186",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/20ab724c803527854603ef1afd48874492c28186"
+      }
+    ]
+  },
+  {
+    "sha": "20ab724c803527854603ef1afd48874492c28186",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:49:07Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:49:07Z"
+      },
+      "message": "non damaging, but still annoying typo",
+      "tree": {
+        "sha": "641b954cf8526837276b0b787e9543d510d5505c",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/641b954cf8526837276b0b787e9543d510d5505c"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/20ab724c803527854603ef1afd48874492c28186",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/20ab724c803527854603ef1afd48874492c28186",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/20ab724c803527854603ef1afd48874492c28186",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/20ab724c803527854603ef1afd48874492c28186/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "abe2b625e8158a63efb7748359d2475c3b6f2ac2",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/abe2b625e8158a63efb7748359d2475c3b6f2ac2",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/abe2b625e8158a63efb7748359d2475c3b6f2ac2"
+      }
+    ]
+  },
+  {
+    "sha": "abe2b625e8158a63efb7748359d2475c3b6f2ac2",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:46:38Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:46:38Z"
+      },
+      "message": "Making loading paths relative to Jhome",
+      "tree": {
+        "sha": "ee2eff519217f293ece6cc497344fae8f8576d60",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/ee2eff519217f293ece6cc497344fae8f8576d60"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/abe2b625e8158a63efb7748359d2475c3b6f2ac2",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/abe2b625e8158a63efb7748359d2475c3b6f2ac2",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/abe2b625e8158a63efb7748359d2475c3b6f2ac2",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/abe2b625e8158a63efb7748359d2475c3b6f2ac2/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "03f6190b26727233f42e366be78ad7b676ada616",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/03f6190b26727233f42e366be78ad7b676ada616",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/03f6190b26727233f42e366be78ad7b676ada616"
+      }
+    ]
+  },
+  {
+    "sha": "03f6190b26727233f42e366be78ad7b676ada616",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:33:51Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:33:51Z"
+      },
+      "message": "Fixing style",
+      "tree": {
+        "sha": "a2c5fecb2a6f2212c0ced6863ef3fea7c8bd43b7",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/a2c5fecb2a6f2212c0ced6863ef3fea7c8bd43b7"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/03f6190b26727233f42e366be78ad7b676ada616",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/03f6190b26727233f42e366be78ad7b676ada616",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/03f6190b26727233f42e366be78ad7b676ada616",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/03f6190b26727233f42e366be78ad7b676ada616/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "89101b61a960e379ac01eba2d35e8f339eda46ce",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/89101b61a960e379ac01eba2d35e8f339eda46ce",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/89101b61a960e379ac01eba2d35e8f339eda46ce"
+      }
+    ]
+  },
+  {
+    "sha": "89101b61a960e379ac01eba2d35e8f339eda46ce",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:33:06Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:33:06Z"
+      },
+      "message": "Removing unused variable declarations",
+      "tree": {
+        "sha": "ad2e0753c96cc0583ccb646455de9bf8a07236d6",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/ad2e0753c96cc0583ccb646455de9bf8a07236d6"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/89101b61a960e379ac01eba2d35e8f339eda46ce",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/89101b61a960e379ac01eba2d35e8f339eda46ce",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/89101b61a960e379ac01eba2d35e8f339eda46ce",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/89101b61a960e379ac01eba2d35e8f339eda46ce/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "11d6846fbbd19d38f4e1b5a39f487cf940b3a7fa",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/11d6846fbbd19d38f4e1b5a39f487cf940b3a7fa",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/11d6846fbbd19d38f4e1b5a39f487cf940b3a7fa"
+      }
+    ]
+  },
+  {
+    "sha": "11d6846fbbd19d38f4e1b5a39f487cf940b3a7fa",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:32:39Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:32:39Z"
+      },
+      "message": "Improving comments",
+      "tree": {
+        "sha": "c0c50c4a2f571f9d6865c158243d1713f52369f3",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/c0c50c4a2f571f9d6865c158243d1713f52369f3"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/11d6846fbbd19d38f4e1b5a39f487cf940b3a7fa",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/11d6846fbbd19d38f4e1b5a39f487cf940b3a7fa",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/11d6846fbbd19d38f4e1b5a39f487cf940b3a7fa",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/11d6846fbbd19d38f4e1b5a39f487cf940b3a7fa/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2342c57c5adbb4521bcd18ac5b85f04fe12402a0",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/2342c57c5adbb4521bcd18ac5b85f04fe12402a0",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/2342c57c5adbb4521bcd18ac5b85f04fe12402a0"
+      }
+    ]
+  },
+  {
+    "sha": "2342c57c5adbb4521bcd18ac5b85f04fe12402a0",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:30:30Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:30:30Z"
+      },
+      "message": "Merge branch 'master' of https://github.com/robknows/Eatcheap",
+      "tree": {
+        "sha": "ffca1b5b6b37bbfa2d62f951ac381dff3fb014a3",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/ffca1b5b6b37bbfa2d62f951ac381dff3fb014a3"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/2342c57c5adbb4521bcd18ac5b85f04fe12402a0",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/2342c57c5adbb4521bcd18ac5b85f04fe12402a0",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/2342c57c5adbb4521bcd18ac5b85f04fe12402a0",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/2342c57c5adbb4521bcd18ac5b85f04fe12402a0/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9feb05942e64da5fa8962a7e6385f6f408b56591",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/9feb05942e64da5fa8962a7e6385f6f408b56591",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/9feb05942e64da5fa8962a7e6385f6f408b56591"
+      },
+      {
+        "sha": "49d0c5d61122936aae9b950f6bb25f8f1ac35512",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/49d0c5d61122936aae9b950f6bb25f8f1ac35512",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/49d0c5d61122936aae9b950f6bb25f8f1ac35512"
+      }
+    ]
+  },
+  {
+    "sha": "9feb05942e64da5fa8962a7e6385f6f408b56591",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:30:20Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:30:20Z"
+      },
+      "message": "Moving all food declarations into new file: foods.ijs",
+      "tree": {
+        "sha": "3afc760154e2b39d98a0f5a29f6e250239b8c5e9",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/3afc760154e2b39d98a0f5a29f6e250239b8c5e9"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/9feb05942e64da5fa8962a7e6385f6f408b56591",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/9feb05942e64da5fa8962a7e6385f6f408b56591",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/9feb05942e64da5fa8962a7e6385f6f408b56591",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/9feb05942e64da5fa8962a7e6385f6f408b56591/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "63fdca6c9ee6479559eb0427021a2c1ff6ee3c93",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/63fdca6c9ee6479559eb0427021a2c1ff6ee3c93",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/63fdca6c9ee6479559eb0427021a2c1ff6ee3c93"
+      }
+    ]
+  },
+  {
+    "sha": "63fdca6c9ee6479559eb0427021a2c1ff6ee3c93",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:29:32Z"
+      },
+      "committer": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:29:32Z"
+      },
+      "message": "Fixing tests to account for removal of methods",
+      "tree": {
+        "sha": "e0ac1a78b8103bef501a5da52df02ff019465747",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/e0ac1a78b8103bef501a5da52df02ff019465747"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/63fdca6c9ee6479559eb0427021a2c1ff6ee3c93",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/63fdca6c9ee6479559eb0427021a2c1ff6ee3c93",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/63fdca6c9ee6479559eb0427021a2c1ff6ee3c93",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/63fdca6c9ee6479559eb0427021a2c1ff6ee3c93/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "26c620ff756309b3c96b4c1a37d463d1e2f9e945",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/26c620ff756309b3c96b4c1a37d463d1e2f9e945",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/26c620ff756309b3c96b4c1a37d463d1e2f9e945"
+      }
+    ]
+  },
+  {
+    "sha": "49d0c5d61122936aae9b950f6bb25f8f1ac35512",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:24:43Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-11-11T01:24:43Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "8b0e6e4ce67682633e39236dd21cc51a9aa4f6f5",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/8b0e6e4ce67682633e39236dd21cc51a9aa4f6f5"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/49d0c5d61122936aae9b950f6bb25f8f1ac35512",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/49d0c5d61122936aae9b950f6bb25f8f1ac35512",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/49d0c5d61122936aae9b950f6bb25f8f1ac35512",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/49d0c5d61122936aae9b950f6bb25f8f1ac35512/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5f5c225436da43b46306f5add80618814ba4f0c1",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5f5c225436da43b46306f5add80618814ba4f0c1",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/5f5c225436da43b46306f5add80618814ba4f0c1"
+      }
+    ]
+  },
+  {
+    "sha": "5f5c225436da43b46306f5add80618814ba4f0c1",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:23:53Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-11-11T01:23:53Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "0cb4007b202a68e491294416e8b7f1547c6db804",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/0cb4007b202a68e491294416e8b7f1547c6db804"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/5f5c225436da43b46306f5add80618814ba4f0c1",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5f5c225436da43b46306f5add80618814ba4f0c1",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/5f5c225436da43b46306f5add80618814ba4f0c1",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5f5c225436da43b46306f5add80618814ba4f0c1/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5ef19865a60c17c994229847ebed604afd79698f",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5ef19865a60c17c994229847ebed604afd79698f",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/5ef19865a60c17c994229847ebed604afd79698f"
+      }
+    ]
+  },
+  {
+    "sha": "5ef19865a60c17c994229847ebed604afd79698f",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:22:46Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-11-11T01:22:46Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "9ed66ff92b4fbc94350ccabd60aea1e3270f129e",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/9ed66ff92b4fbc94350ccabd60aea1e3270f129e"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/5ef19865a60c17c994229847ebed604afd79698f",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5ef19865a60c17c994229847ebed604afd79698f",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/5ef19865a60c17c994229847ebed604afd79698f",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5ef19865a60c17c994229847ebed604afd79698f/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ffbb1069a8f05b6a93cc844708ec7652d2f8a659",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/ffbb1069a8f05b6a93cc844708ec7652d2f8a659",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/ffbb1069a8f05b6a93cc844708ec7652d2f8a659"
+      }
+    ]
+  },
+  {
+    "sha": "ffbb1069a8f05b6a93cc844708ec7652d2f8a659",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:22:13Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-11-11T01:22:13Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "4eaae6333c13ff7b01c45b4d925f9577c27462ba",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/4eaae6333c13ff7b01c45b4d925f9577c27462ba"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/ffbb1069a8f05b6a93cc844708ec7652d2f8a659",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/ffbb1069a8f05b6a93cc844708ec7652d2f8a659",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/ffbb1069a8f05b6a93cc844708ec7652d2f8a659",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/ffbb1069a8f05b6a93cc844708ec7652d2f8a659/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7928e3d0e27f6bd8c55faca873b238db7e50ddb5",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/7928e3d0e27f6bd8c55faca873b238db7e50ddb5",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/7928e3d0e27f6bd8c55faca873b238db7e50ddb5"
+      }
+    ]
+  },
+  {
+    "sha": "7928e3d0e27f6bd8c55faca873b238db7e50ddb5",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:21:48Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-11-11T01:21:48Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "020548a75e1a5b56675ca8333bf2f33f60018dff",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/020548a75e1a5b56675ca8333bf2f33f60018dff"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/7928e3d0e27f6bd8c55faca873b238db7e50ddb5",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/7928e3d0e27f6bd8c55faca873b238db7e50ddb5",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/7928e3d0e27f6bd8c55faca873b238db7e50ddb5",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/7928e3d0e27f6bd8c55faca873b238db7e50ddb5/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7a45f380a1d3ef39d6d1854ea658b056e03bc02a",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/7a45f380a1d3ef39d6d1854ea658b056e03bc02a",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/7a45f380a1d3ef39d6d1854ea658b056e03bc02a"
+      }
+    ]
+  },
+  {
+    "sha": "7a45f380a1d3ef39d6d1854ea658b056e03bc02a",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:21:19Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-11-11T01:21:19Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "10189f828a9402fc8780536877c5a82aef8f6744",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/10189f828a9402fc8780536877c5a82aef8f6744"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/7a45f380a1d3ef39d6d1854ea658b056e03bc02a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/7a45f380a1d3ef39d6d1854ea658b056e03bc02a",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/7a45f380a1d3ef39d6d1854ea658b056e03bc02a",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/7a45f380a1d3ef39d6d1854ea658b056e03bc02a/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "85be5762b4c003cbdc8e7cce7429ea4b5801b199",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/85be5762b4c003cbdc8e7cce7429ea4b5801b199",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/85be5762b4c003cbdc8e7cce7429ea4b5801b199"
+      }
+    ]
+  },
+  {
+    "sha": "85be5762b4c003cbdc8e7cce7429ea4b5801b199",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:20:44Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-11-11T01:20:44Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "601f7fa9028f9eff0e522971c3233b614055d6ed",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/601f7fa9028f9eff0e522971c3233b614055d6ed"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/85be5762b4c003cbdc8e7cce7429ea4b5801b199",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/85be5762b4c003cbdc8e7cce7429ea4b5801b199",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/85be5762b4c003cbdc8e7cce7429ea4b5801b199",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/85be5762b4c003cbdc8e7cce7429ea4b5801b199/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5be67ee47bf4d2b67cd728c201e23d13e0e4138a",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5be67ee47bf4d2b67cd728c201e23d13e0e4138a",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/5be67ee47bf4d2b67cd728c201e23d13e0e4138a"
+      }
+    ]
+  },
+  {
+    "sha": "5be67ee47bf4d2b67cd728c201e23d13e0e4138a",
+    "commit": {
+      "author": {
+        "name": "Rob",
+        "email": "robmoore121@gmail.com",
+        "date": "2016-11-11T01:20:17Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-11-11T01:20:17Z"
+      },
+      "message": "Fixing formatting attempt 2",
+      "tree": {
+        "sha": "09c06ba50c6538344888a62ec8182f7677e37175",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/trees/09c06ba50c6538344888a62ec8182f7677e37175"
+      },
+      "url": "https://api.github.com/repos/ivanmoore/Eatcheap/git/commits/5be67ee47bf4d2b67cd728c201e23d13e0e4138a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5be67ee47bf4d2b67cd728c201e23d13e0e4138a",
+    "html_url": "https://github.com/ivanmoore/Eatcheap/commit/5be67ee47bf4d2b67cd728c201e23d13e0e4138a",
+    "comments_url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/5be67ee47bf4d2b67cd728c201e23d13e0e4138a/comments",
+    "author": {
+      "login": "robknows",
+      "id": 1451027,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1451027?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/robknows",
+      "html_url": "https://github.com/robknows",
+      "followers_url": "https://api.github.com/users/robknows/followers",
+      "following_url": "https://api.github.com/users/robknows/following{/other_user}",
+      "gists_url": "https://api.github.com/users/robknows/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/robknows/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/robknows/subscriptions",
+      "organizations_url": "https://api.github.com/users/robknows/orgs",
+      "repos_url": "https://api.github.com/users/robknows/repos",
+      "events_url": "https://api.github.com/users/robknows/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/robknows/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "85c8b3136b492f24d452674c8267a9f81f908b61",
+        "url": "https://api.github.com/repos/ivanmoore/Eatcheap/commits/85c8b3136b492f24d452674c8267a9f81f908b61",
+        "html_url": "https://github.com/ivanmoore/Eatcheap/commit/85c8b3136b492f24d452674c8267a9f81f908b61"
+      }
+    ]
+  }
+]
