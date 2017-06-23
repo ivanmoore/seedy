@@ -1,25 +1,9 @@
 # seedy
 
-Play area for me to learn Haskell - learning from Rob
+To build the dependencies, run
 
-# Compile and build in Docker
+`./build.sh`
 
-So you don't need anything other than docker installed on your machine.
+To run the server, run
 
-To compile only:
-
-```
-./build.sh
-```
-
-To compile and run:
-
-```
-./run.sh
-```
-
-# Compile on your machine
-
-Executes more quickly - but you need haskell and stack installed on your machine.
-
-Run `stack install`. It creates an executable: `~/.local/bin/seedy-exe`.
+`./run.sh`

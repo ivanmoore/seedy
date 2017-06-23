@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
-docker-compose run haskell ./compile-and-run.sh
+#!/bin/bash
+runghc -i lib/ src/GitListener.hs
