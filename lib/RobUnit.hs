@@ -4,6 +4,12 @@ import Control.Monad
 import Control.Conditional
 import Data.String.Utils
 
+runPureTests :: [String] -> IO ()
+runPureTests = (putStr . concat . appendFailedCount)
+
+runIOTests :: [IO String] -> IO ()
+runIOTests = (foldr (>>) (return ())) . (map ioResult)
+
 makeTest :: (Eq a, Show a) => String -> a -> a -> String
 makeTest description actual expected =
   if expected == actual

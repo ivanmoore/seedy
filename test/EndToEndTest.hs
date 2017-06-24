@@ -10,7 +10,7 @@ import NetworkAccessor
 main :: IO ()
 main = do
   putStrLn "=== END TO END ==="
-  foldr (>>) (return ()) $ map ioResult tests
+  runIOTests tests
   putStrLn "ALL DONE"
 
 eatcheapJSON :: IO String
