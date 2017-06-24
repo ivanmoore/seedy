@@ -16,15 +16,15 @@ appendFailedCount tests = tests ++ ["PASSED: " ++ show passed ++ " FAILED: " ++ 
     fails  = length (filter (startswith "FAIL") tests)
     passed = length tests - fails
 
-ioTest :: (Show a, Eq a) => String -> a -> IO a -> IO String
-ioTest description expected actual =
-  ifM (liftM (== expected) actual) (return "") (ioFailureMessage description (show expected) actual)
+ioTest :: (Show a, Eq a) => String -> IO a -> a -> IO String
+ioTest description actual expected =
+  ifM (liftM (== expected) actual) (return "") (ioFailureMessage description actual (show expected))
   
-ioFailureMessage :: (Show a) => String -> String -> IO a -> IO String
-ioFailureMessage description expected actual
+ioFailureMessage :: (Show a) => String -> IO a -> String -> IO String
+ioFailureMessage description actual expected
   = liftM (\x -> concat ["FAIL: ", description, "\n\texp: ", expected, "\n\tact: ", show x, "\n"]) actual
 
 ioResult :: IO String -> IO ()
 ioResult test = do
   result <- test
-  putStrLn result
+  putStr result
