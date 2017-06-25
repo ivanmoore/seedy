@@ -7,3 +7,11 @@ To build the dependencies, run
 To run the server, run
 
 `./run.sh`
+
+To build the docker image, run
+
+`docker build -t seedy .`
+
+To run the tests in a docker container, run
+
+`docker run seedy`
