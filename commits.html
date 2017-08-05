@@ -15,26 +15,26 @@
     class Commits extends React.Component {
         constructor(props) {
             super(props);
-            this.state = {value: 'not set yet'};
+            this.state = {value: '...'};
+            this.initialize();
         }
 
-        foo() {
-            console.log('hi');
+        initialize() {
             var that = this;
 
-            fetch('https://api.github.com/repos/ivanmoore/Eatcheap/commits')
+            fetch(this.props.url)
             .then(function(data) {
                 Promise.resolve(data.text()).then(function(v) {
-                    console.log(v);
+                    that.setState({value: v});
                 });
             })
             .catch(function() {
-                console.log('boo');
+                that.setState({value: 'boo'});
             });
         }
 
         render() {
-            return <div onClick={() => this.foo()}>Commits for {this.props.url} resulted in {this.state.value} when <Timer/></div>;
+            return <div>Commits for {this.props.url} resulted in {this.state.value} when <Timer/></div>;
         }
     }
 
