@@ -1,13 +1,13 @@
 # seedy
 
-To build the dependencies, run
+## Without using Docker
 
-`./build.sh`
+To install the dependencies, run
 
-To build the docker image, run
+`./install-dependencies.sh`
 
-`docker build -t seedy .`
+## Using Docker
 
-To run the tests in a docker container, run
+To run the tests in the seedy container, run
 
-`docker run seedy`
+`docker-compose run seedy bash`
