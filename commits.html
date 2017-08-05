@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>Commits</title>
+    <script src="https://unpkg.com/react@latest/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom@latest/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+</head>
+<body>
+
+<div id="root"></div>
+
+<script type="text/babel">
+    class Commits extends React.Component {
+        constructor(props) {
+            super(props);
+            this.state = {value: 'not set yet'};
+        }
+
+        foo() {
+            console.log('hi');
+            var that = this;
+
+            fetch('https://api.github.com/repos/ivanmoore/Eatcheap/commits')
+            .then(function(data) {
+                Promise.resolve(data.text()).then(function(v) {
+                    console.log(v);
+                });
+            })
+            .catch(function() {
+                console.log('boo');
+            });
+        }
+
+        render() {
+            return <div onClick={() => this.foo()}>Commits for {this.props.url} resulted in {this.state.value} when <Timer/></div>;
+        }
+    }
+
+    class Timer extends React.Component {
+      constructor(props) {
+        super(props);
+        this.state = {secondsElapsed: 0};
+      }
+
+      tick() {
+        this.setState((prevState) => ({
+          secondsElapsed: prevState.secondsElapsed + 1
+        }));
+      }
+
+      componentDidMount() {
+        this.interval = setInterval(() => this.tick(), 1000);
+      }
+
+      componentWillUnmount() {
+        clearInterval(this.interval);
+      }
+
+      render() {
+        return (
+          <span>Seconds Elapsed: {this.state.secondsElapsed}</span>
+        );
+      }
+    }
+
+    var root = document.getElementById('root');
+    ReactDOM.render(<Commits url="https://api.github.com/repos/ivanmoore/Eatcheap/commits" />, root);
+</script>
+
+</body>
+</html>
